@@ -1,0 +1,25 @@
+{
+  "name": "markdown-it-interactive",
+  "version": "0.1.0",
+  "description": "interative tag for markdown-it markdown parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/snwoyu/markdown-it-interactive.git"
+  },
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "interactive"
+  ],
+  "author": "Riceball LEE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snwoyu/markdown-it-interactive/issues"
+  },
+  "homepage": "https://github.com/snwoyu/markdown-it-interactive#readme"
+}
